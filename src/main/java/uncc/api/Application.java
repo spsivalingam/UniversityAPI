@@ -11,6 +11,9 @@ import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 @EnableWebMvc
 @ComponentScan
 public class Application {
+  
+  void status(){
+  }
 
     public void set(){
         
