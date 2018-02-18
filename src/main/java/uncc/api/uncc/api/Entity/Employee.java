@@ -16,8 +16,8 @@ public class Employee extends User {
         this.address = address;
     }
 
-    public void setEmployeeId(String employeeId) {
-        this.employeeId = employeeId;
+    public void setEmployeeId(String employeId) {
+        this.employeeId = employeId;
     }
 
     public void setName(String name) {
